@@ -1,0 +1,1 @@
+export 'package:flutter_preferencias/components/side_menu_component.dart';
